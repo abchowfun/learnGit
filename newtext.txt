@@ -1,0 +1,5 @@
+New Text File
+
+Just using VIM to create a new text file in learnGit. 
+
+Let's see if this works. 
