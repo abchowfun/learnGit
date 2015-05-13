@@ -10,4 +10,8 @@ This is my 2n update. Us vim again. Might as well start learning and practicing 
 This is my 2n update. Using vim again. Might as well start learning and practicing somewhere.
 
 Signing off at 1:57 am. 
+
+Logged in 6:00 pm. Also working on learning Android.
+
+Have to relearn how to navigate with VIM commands.  
   
